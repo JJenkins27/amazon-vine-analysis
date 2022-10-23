@@ -15,19 +15,23 @@ The dataset chosen was amazon_reviews_us_Books_v1_00.
 
 #### *Paid Vine Reviews*
 
-- There are X total Vine reviews.
-- Of these X reviews, X of them have a 5-star rating.
-- **The percentage of 5-star reviews is: _50%_.**
+![vine_reviews](https://user-images.githubusercontent.com/108373151/197402487-424c77e3-3b68-4baf-be5e-65524b42d399.jpg)
+
+- There are 5,012 total Vine reviews.
+- Of these 5,012 reviews, 2,031 of them have a 5-star rating.
+- **The percentage of 5-star reviews is: _40.52%_.**
 
 #### *Unpaid non-Vine Reviews*
 
-- There are X total reviews not related to the Vine program.
-- Of these X reviews, X of them have a 5-star rating.
-- **The percentage of 5-star reviews is: _50%_.**
+![unpaid_reviews](https://user-images.githubusercontent.com/108373151/197402502-bb4aaf42-25d6-46ba-83a1-48ee9fa9bcc6.jpg)
+
+- There are 109,297 total reviews not related to the Vine program.
+- Of these 109,297 reviews, 49,967 of them have a 5-star rating.
+- **The percentage of 5-star reviews is: _45.72%_.**
 
 ## Summary
 
-From the 
+Approximately 41% of the Vine reviews are rated 5-star. Whereas, in the unpaid reviews, 46% are rated 5-star. Because the number of unpaid 5-star reviews are approximately 13% higher than the 5-star paid reviews, it has been determined that there is no positivity bias in the Amazon Vine program.
 
 ### Recommendations
 
