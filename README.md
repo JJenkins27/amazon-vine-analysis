@@ -12,17 +12,17 @@ Analyzing Amazon reviews written by members of the Amazon Vine program. Companie
 
 ## Results
 
-#### *Snapshot Vine Reviews*
+#### *Paid Vine Reviews*
 
 - There are X total Vine reviews.
 - Of these X reviews, X of them have a 5-star rating.
-- The percentage of 5-star reviews is: .
+- The percentage of 5-star reviews is: _50%_.
 
-#### *Snapshot non-Vine Reviews*
+#### *Unpaid non-Vine Reviews*
 
 - There are X total reviews not related to the Vine program.
 - Of these X reviews, X of them have a 5-star rating.
-- The percentage of 5-star reviews is: .
+- **The percentage of 5-star reviews is: _50%_.**
 
 ## Summary
 
@@ -30,7 +30,7 @@ From the
 
 ### Further Analysis
 
-- To continue to analyze this dataset, I would recommend catalouging the reviews past just 5-star ratings. Will Amazon Vine members give an unfavorable review? Which percentage of the reviews by Amazon Vine members are rated 1 or 2-star? 
+- To continue to analyze this dataset, I would recommend catalouging the reviews past just 5-star ratings. Will Amazon Vine members give an unfavorable review? Which percentage of the reviews by Amazon Vine members are rated 1-star or 2-star? 
 - Additionally, it would be interesting to run NLP (specifically, word count and word analysis) on reviews. Do Amazon Vine members post longer, more detailed reviews than those not in the Amazon Vine program?
 
 
